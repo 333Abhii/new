@@ -8,7 +8,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Login Example</title>
+<title>Login Example 123456</title>
 </head>
 <body>
     <html:form action="/login" focus="userName">
